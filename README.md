@@ -7,8 +7,8 @@
   功能列表
 # 支持动态加载配置文件,修改日志等级 (kill -USR1 )
   Auto shift file log by daily
-  
   Auto delete old log file if you need
+  
 # 性能
   10万/s 日志写入
 
